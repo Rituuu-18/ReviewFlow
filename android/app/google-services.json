@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008052733284",
+    "project_id": "reviewflow-31290",
+    "storage_bucket": "reviewflow-31290.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008052733284:android:ffd957d22981e58b782671",
+        "android_client_info": {
+          "package_name": "com.example.reviewflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX9MPvYBVA4Zw83Npe2nG6J20yYwiDXe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
